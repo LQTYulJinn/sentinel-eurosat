@@ -1,0 +1,95 @@
+[
+ {
+  "variant": "hgb_rgb_stats",
+  "seed": 0,
+  "test_acc": 0.7290132547864506,
+  "test_macro_f1": 0.6911665163442945
+ },
+ {
+  "variant": "hgb_ms_stats+indices",
+  "seed": 0,
+  "test_acc": 0.8475699558173785,
+  "test_macro_f1": 0.8283693335162212
+ },
+ {
+  "variant": "rgb",
+  "seed": 0,
+  "params": 98970,
+  "val_macro_f1": 0.8768405589084047,
+  "test_acc": 0.9158689248895434,
+  "test_macro_f1": 0.906628904445833,
+  "seconds": 406
+ },
+ {
+  "variant": "rgb",
+  "seed": 1,
+  "params": 98970,
+  "val_macro_f1": 0.8803630564134473,
+  "test_acc": 0.9160530191458026,
+  "test_macro_f1": 0.9069790816796633,
+  "seconds": 392
+ },
+ {
+  "variant": "rgb",
+  "seed": 2,
+  "params": 98970,
+  "val_macro_f1": 0.8809814465587991,
+  "test_acc": 0.9099779086892489,
+  "test_macro_f1": 0.9011199205462873,
+  "seconds": 375
+ },
+ {
+  "variant": "rgb_idx",
+  "seed": 0,
+  "params": 99402,
+  "val_macro_f1": 0.9047723446715338,
+  "test_acc": 0.9199189985272459,
+  "test_macro_f1": 0.9149928874894595,
+  "seconds": 447
+ },
+ {
+  "variant": "rgb_idx",
+  "seed": 1,
+  "params": 99402,
+  "val_macro_f1": 0.9034638011500077,
+  "test_acc": 0.9348306332842415,
+  "test_macro_f1": 0.9280014960920815,
+  "seconds": 439
+ },
+ {
+  "variant": "rgb_idx",
+  "seed": 2,
+  "params": 99402,
+  "val_macro_f1": 0.9036779831818912,
+  "test_acc": 0.9248895434462445,
+  "test_macro_f1": 0.919051565424021,
+  "seconds": 454
+ },
+ {
+  "variant": "ms13",
+  "seed": 0,
+  "params": 100410,
+  "val_macro_f1": 0.9185265926331306,
+  "test_acc": 0.9596833578792342,
+  "test_macro_f1": 0.9561255292573962,
+  "seconds": 473
+ },
+ {
+  "variant": "ms13",
+  "seed": 1,
+  "params": 100410,
+  "val_macro_f1": 0.9252975543938591,
+  "test_acc": 0.9502945508100147,
+  "test_macro_f1": 0.9470735259451901,
+  "seconds": 522
+ },
+ {
+  "variant": "ms13",
+  "seed": 2,
+  "params": 100410,
+  "val_macro_f1": 0.9310623567797498,
+  "test_acc": 0.9513991163475699,
+  "test_macro_f1": 0.9491578529250024,
+  "seconds": 444
+ }
+]
